@@ -1,2 +1,2 @@
 # cv
-My interactive curriculum vitae
+My web + print HTML curriculum vitae
