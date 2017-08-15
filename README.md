@@ -9,11 +9,11 @@ Because I'm a web developer at heart, I felt dirty trying CV layouts in Word. Ha
 
 The code should maintain a KISS (Keep It Simple Stupid) approach for as long as possible, to avoid the necessity of a build step and leverage Github pages for hosting. As it is a simple layout, there's no real need for complicated frameworks anyway.
 
-## To do
+## Ideas for future versions
 
-- Basic printable layout
 - Add responsiveness
 - Add links / other interactivity?
+- Calculate durations automatically (age, time in positions)
 
 ## "License"
 
